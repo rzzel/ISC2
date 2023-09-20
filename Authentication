@@ -1,0 +1,13 @@
+Authentication
+It is vital to authenticate that users are the rightful owners of their identities after they have stated their identities. Authentication is the process of validating or proving the user's identity. Simply simply, authentication is the process of proving the requestor's identity.
+
+
+There are three common authentication methods:
+
+
+
+Something you're familiar with: passwords or passphrases
+
+You have tokens, memory cards, and smart cards.
+
+Biometrics are measurable features about you.
