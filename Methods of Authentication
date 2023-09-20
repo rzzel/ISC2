@@ -1,0 +1,18 @@
+Methods of Authentication
+There are two types of authentication. Using only one of the methods of authentication stated previously is known as single-factor authentication (SFA) . Granting users access only after successfully demonstrating or displaying two or more of these methods is known as multi-factor authentication (MFA) . 
+
+ Common best practice is to implement at least two of the three common techniques for authentication: 
+
+Knowledge-based 
+Token-based 
+Characteristic-based  
+
+To distinguish between authorized and unauthorized users, knowledge-based authentication employs a passcode or secret code. 
+You have used knowledge-based authentication if you have chosen a personal identification number (PIN), created a password, or produced some other secret value that only you know. 
+The difficulty with relying solely on this sort of authentication is that it is frequently subject to a range of attacks. For instance, the support desk may get a request to reset a user's password. 
+The problem is to ensure that the password is only reset for the proper person and not for someone pretending to be that user. 
+To distinguish between authorized and unauthorized users, knowledge-based authentication employs a passcode or secret code. 
+You have used knowledge-based authentication if you have chosen a personal identification number (PIN), created a password, or produced some other secret value that only you know. 
+The difficulty with relying solely on this sort of authentication is that it is frequently subject to a range of attacks. For instance, the support desk may get a request to reset a user's password. 
+The problem is to ensure that the password is only reset for the proper person and not for someone pretending to be that user. 
+
