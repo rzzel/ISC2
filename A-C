@@ -21,6 +21,7 @@ Business Continuity (BC) - Actions, processes and tools for ensuring an organiza
 Business Continuity Plan (BCP) - The documentation of a predetermined set of instructions or procedures that describe how an organization’s mission/business processes will be sustained during and after a significant disruption. 
 Business Impact Analysis (BIA) - An analysis of an information system’s requirements, functions, and interdependencies used to characterize system contingency requirements and priorities in the event of a significant disruption. NIST SP 800-34 Rev. 1
 Byte - The byte is a unit of digital information that most commonly consists of eight bits.
+
 Checksum - A digit representing the sum of the correct digits in a piece of stored or transmitted digital data, against which later comparisons can be made to detect errors in the data. 
 Ciphertext - The altered form of a plaintext message so it is unreadable for anyone except the intended recipients. In other words, it has been turned into a secret. 
 Classification - Classification identifies the degree of harm to the organization, its stakeholders or others that might result if an information asset is divulged to an unauthorized person, process or organization. In short, classification is focused first and foremost on maintaining the confidentiality of the data, based on the data sensitivity. 
