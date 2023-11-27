@@ -10,6 +10,7 @@ Audit - Independent review and examination of records and activities to assess t
 Authentication - Access control process validating that the identity being claimed by a user or entity is known to the system, by comparing one (single-factor or SFA) or more (multi-factor authentication or MFA) factors of identification.  
 Authorization - The right or a permission that is granted to a system entity to access a system resource. NIST 800-82 Rev.2 
 Availability - Ensuring timely and reliable access to and use of information by authorized users. 
+
 Baseline - A documented, lowest level of security configuration allowed by a standard or organization. 
 Biometric - Biological characteristics of an individual, such as a fingerprint, hand geometry, voice, or iris patterns.
 Bit - The most essential representation of data (zero or one) at Layer 1 of the Open Systems Interconnection (OSI) model.
